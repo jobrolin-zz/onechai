@@ -1,0 +1,21 @@
+{
+  "name": "onechai",
+  "homepage": "https://github.com/jobrolin/onechai",
+  "authors": [
+    "jobrolin <jobrolin@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
