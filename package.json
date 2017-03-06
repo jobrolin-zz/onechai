@@ -1,0 +1,24 @@
+{
+  "name": "onechai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobrolin/onechai.git"
+  },
+  "author": "Johan Brolin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobrolin/onechai/issues"
+  },
+  "homepage": "https://github.com/jobrolin/onechai#readme",
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1",
+    "less": "^2.7.2"
+  }
+}
